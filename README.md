@@ -32,10 +32,10 @@ dark theme inspired by death note aesthetics
 
 CHARACTERS INCLUDED
 --
-L
-light yagami
-misa amane
-ryuk
+L  
+Light Yamagi  
+Misha  
+Ryuk
 
 PROJECT STRUCTURE
 --
